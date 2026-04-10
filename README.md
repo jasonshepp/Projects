@@ -1,1 +1,1 @@
-# Projects were created in JupyterHub (UBC's chosen environment) using Python.
+# Projects were created in JupyterHub using Python.
